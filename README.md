@@ -34,8 +34,8 @@ It is a **single file** in very simple PHP coding, provides the following featur
 ### Sample Site
 
 * [English Version](http://zi5.epizy.com/index-en.php)
-* [Simplified Chinese](http://zi5.epizy.com/index-en.php)
-* [Traditional Version](http://zi5.epizy.com/index-en.php)
+* [Simplified Chinese](http://zi5.epizy.com/index-cn.php)
+* [Traditional Version](http://zi5.epizy.com/index-b5.php)
 
 ### Release
 
