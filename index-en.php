@@ -22,7 +22,7 @@ header("Cache-Control: no-cache, no-store, must-revalidate");
 $folder = 'calibre';			// folder of calibre files
 $title  = 'MyCalibre';
 $subtitle = ' - my book library';
-$maxBookPerPage = 10;
+$maxBookPerPage = 30;
 $about  = 'Simple content server for Calibre Book Library. (v0.70@202007)';
 $footer = 'All books collected from internet. <b>for private use only</b>';
 //----------------- end of options -------------------

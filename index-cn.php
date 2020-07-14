@@ -22,7 +22,7 @@ header("Cache-Control: no-cache, no-store, must-revalidate");
 $folder = 'calibre';			// calibre 的文件目录
 $title  = '书库名称';
 $subtitle = ' - 小标题';
-$maxBookPerPage = 10;
+$maxBookPerPage = 30;
 $about  = 'Simple content server for Calibre Book Library. (v0.70@202007)';
 $footer = '所有书籍收集自互联网。<b>私人收藏，禁止下载。</b>';
 
