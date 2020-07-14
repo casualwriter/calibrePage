@@ -22,14 +22,14 @@ It is a **single file** in very simple PHP coding, provides the following featur
 
 (3) rename index-??.php to index.php, and edit the php for the following customization
 
-//----------- all options for the page ---------------
-$folder = 'calibre';			// folder of calibre files
-$title  = 'MyCalibre';
-$subtitle = ' - my book library';
-$maxBookPerPage = 10;
-$about  = 'Simple content server for Calibre Book Library. (v0.70@202007)';
-$footer = 'All books collected from internet. <b>for private use only</b>';
-//----------------- end of options -------------------
+  //----------- all options for the page ---------------
+  $folder = 'calibre';			// folder of calibre files
+  $title  = 'MyCalibre';
+  $subtitle = ' - my book library';
+  $maxBookPerPage = 10;
+  $about  = 'Simple content server for Calibre Book Library. (v0.70@202007)';
+  $footer = 'All books collected from internet. <b>for private use only</b>';
+  //----------------- end of options -------------------
 
 ### Sample Site
 
