@@ -1,4 +1,4 @@
-## Introduction
+### Introduction
 
 [calibrePage](https://campodesktop.com/calibrePage) is simple PHP content server for calibre.
 
@@ -10,7 +10,7 @@ It is a **single file** in very simple PHP coding, provides the following featur
 * show details of selected books
 * download books
 
-## Installation & Configuration
+### Installation & Configuration
 
 (1) Just simply copy any of below php file to your php server
 
@@ -33,9 +33,9 @@ $footer = 'All books collected from internet. <b>for private use only</b>';
 
 ### Sample Site
 
-		[English Version](http://zi5.epizy.com/index-en.php)
-		[Simplified Chinese](http://zi5.epizy.com/index-en.php)
-		[Traditional Version](http://zi5.epizy.com/index-en.php)
+* [English Version](http://zi5.epizy.com/index-en.php)
+* [Simplified Chinese](http://zi5.epizy.com/index-en.php)
+* [Traditional Version](http://zi5.epizy.com/index-en.php)
 
 ### Release
 
