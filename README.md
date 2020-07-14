@@ -4,6 +4,10 @@
 
 It is a **single file** in very simple PHP coding, provides the following features
 
+* Single php file
+* Self-contained, no depandence, no jQuery
+* responsive, fit for mobile and desktop
+
 * List latest books
 * List books by labels
 * Search book by keyword
