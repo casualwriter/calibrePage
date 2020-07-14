@@ -1,6 +1,6 @@
 ### Introduction
 
-[calibrePage](https://campodesktop.com/calibrePage) is simple PHP content server for calibre.
+[calibrePage](https://github.com/casualwriter/calibrePage) is simple PHP content server for calibre.
 
 * Single php file
 * Self-contained, no depandence
