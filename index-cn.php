@@ -183,7 +183,7 @@ A:hover { background-color:skyblue; text-decoration:none; border-bottom:1px dash
 
 <div id=msg>
   <?=$footer?> 
-  <span class="w3-right"><a href='cops'>OPDS 目录</a> | <a href=# onclick="about()">About 关于</a></span>
+  <span class="w3-right"><a href='opds'>OPDS 目录</a> | <a href=# onclick="about()">About 关于</a></span>
 </div>
 
 <div id="dialog" class="w3-modal">
